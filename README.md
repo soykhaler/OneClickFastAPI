@@ -1,6 +1,6 @@
 # OneClickFastAPI
 
-<a target="_blank" href="https://colab.research.google.com/drive/1p7AuBxa12tLwKe1mpn127WeT50cnz__N?usp=drive_link">
+<a target="_blank" href="https://colab.research.google.com/github/soykhaler/OneClickFastAPI">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
